@@ -1,0 +1,9 @@
+[package]
+name = "wasmtime-hello-world"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+anyhow = "1.0.94"
+wasmtime = "11.0.0"
+wasmtime-wasi = "11.0.0"
